@@ -1,8 +1,14 @@
-// Box for:
+// Box for https://github.com/bablokb/pcb-pico-datalogger (Rev 0.98)
+// Uses:
+// QR Code generator for OpenSCAD https://github.com/ridercz/OpenSCAD-QR
+// https://github.com/KitWallace/openscad/blob/master/braille.scad
+// 
 // Mounting holes: 84 x 74
 // Approx pcb size: 90 x 80
 // basic box size: 110 x 100 (interior)
 // with sensor patch: 110 x 200 (interior)
+//
+// Not final.
 
 use <lib/braille.scad>
 use <lib/qrcode.scad>
