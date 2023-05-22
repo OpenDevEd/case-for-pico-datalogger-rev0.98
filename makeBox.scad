@@ -4,8 +4,8 @@
 // basic box size: 110 x 100 (interior)
 // with sensor patch: 110 x 200 (interior)
 
-use <braille.scad>
-use <qrcode.scad>
+use <lib/braille.scad>
+use <lib/qrcode.scad>
 
 makebox(84, 74, 40, padx=26, pady=26, wall=3, extx=0, exty=100);
 
