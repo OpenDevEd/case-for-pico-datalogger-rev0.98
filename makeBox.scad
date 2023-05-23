@@ -19,7 +19,7 @@ makeInky();
 
 module makeSensors() {
     for(x=[5:18:100]) 
-translate([x,140,1]) rotate([180,0,270]) color("grey") import("4566-AHT20-Sensor.stl");
+translate([x,140,1]) rotate([180,0,270]) color("grey") import("lib/4566-AHT20-Sensor.stl");
 };
 
 module makeInky() {
