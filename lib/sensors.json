@@ -1,0 +1,15 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "$fa": "1",
+            "$fn": "48",
+            "$fs": "0.4",
+            "makeObjects": "false",
+            "makeSides": "false",
+            "project": "false",
+            "showlidx": "false",
+            "wallThickness": "2"
+        }
+    },
+    "fileFormatVersion": "1"
+}
