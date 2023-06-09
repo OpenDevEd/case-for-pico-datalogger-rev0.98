@@ -13,6 +13,18 @@ Uses:
 * https://www.thingiverse.com/thing:668210/files
 * https://github.com/adafruit/Adafruit_CAD_Parts
 
+# Sensors intended for this lid.
+
+The slots are labeled in the model. The sensors used are
+* AHT20	Adafruit Qw/St:	temperature, humidity
+* mcp9808	Adafruit, headers only:	temperature
+* AMB2301	Wired sensor:	temperature, humidity
+* SHT45	Adafruit Qw/St:	temperature, humidity
+* BH1750	Adafruit Qw/St:	Luminance
+* BH1745	Pimoroni Garden:	Luminance, colour
+* LTR 559	Pimoroni Garden:	Luminance, proximity (~5cm)
+* I2S MEMS	Adafruit, headers only:	sound
+
 # About
 
 The code is fairly modular. 
