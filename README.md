@@ -7,6 +7,9 @@ The lid will fit (CamdenBoss BIM2006/16-GY/GY ABS Case Grey 190 x 110 x 60mm 200
 Additional PCB to hold sensors:
 * https://github.com/OpenDevEd/sensor-stripboard-v1
 
+Much better setup for sensor cutouts:
+* https://github.com/OpenDevEd/sensors-openscad
+
 Uses: 
 * QR Code generator for OpenSCAD https://github.com/ridercz/OpenSCAD-QR
 * https://github.com/KitWallace/openscad/blob/master/braille.scad
