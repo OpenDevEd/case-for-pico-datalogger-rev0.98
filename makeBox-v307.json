@@ -1,0 +1,45 @@
+{
+    "parameterSets": {
+        "Version_A_no_sht": {
+            "$fa": "1",
+            "$fn": "48",
+            "$fs": "0.4",
+            "closesht_for_version_a": "true",
+            "makeBattery": "false",
+            "makeObjects": "false",
+            "makeSides": "false",
+            "makeText": "false",
+            "modelheight": "55",
+            "pcbMountScrewDiameter": "2",
+            "project_model_for_printing": "false",
+            "showSensorBoard": "false",
+            "showStripboardClearance": "false",
+            "showguides": "false",
+            "showlidx": "false",
+            "showpins": "false",
+            "thedate": "2023-06-05",
+            "wallThickness": "1.5"
+        },
+        "Version_B_with_sht": {
+            "$fa": "1",
+            "$fn": "48",
+            "$fs": "0.4",
+            "closesht_for_version_a": "false",
+            "makeBattery": "false",
+            "makeObjects": "false",
+            "makeSides": "false",
+            "makeText": "false",
+            "modelheight": "55",
+            "pcbMountScrewDiameter": "2",
+            "project_model_for_printing": "false",
+            "showSensorBoard": "false",
+            "showStripboardClearance": "false",
+            "showguides": "false",
+            "showlidx": "false",
+            "showpins": "false",
+            "thedate": "2023-06-05",
+            "wallThickness": "1.5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
